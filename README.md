@@ -1,2 +1,2 @@
 # Parallel_LEDMatrix
-Minimal C-Library for Parallel-driven LED Matrix 
+パラレル接続、シフトレジスタ・ラッチ搭載型LEDマトリックス用 C言語ライブラリ的なもの
